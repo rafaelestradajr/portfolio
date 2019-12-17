@@ -1,0 +1,74 @@
+
+ body{
+   background-color: rgb(192, 18, 18);
+   margin: 0;
+   padding: 0;
+   
+  
+
+ } 
+ 
+ 
+ 
+ 
+ 
+ #container {
+   width: 960px;
+   margin: 0 auto;
+   
+    
+    
+   background: #0000ffa2;
+  /* margin-right: 50px;
+  margin-left: 50px; */
+  
+    
+  
+
+ } 
+ #container h2{
+   float: right;
+   
+ }   
+
+    
+  
+    
+ 
+ 
+ #main {
+   
+
+  background-color: honeydew;
+ 
+
+ 
+  
+  
+
+  
+}
+
+
+#content {
+  background-color: rgb(55, 184, 55);
+ 
+ text-align: center;
+ 
+ 
+ 
+  
+
+  
+}
+#footer{
+  background-color: gray;
+
+
+}
+#image{
+  height: 20px;
+  widows: 20px;
+  float: left;
+
+}
