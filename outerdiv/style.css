@@ -1,0 +1,30 @@
+body{
+  padding:100px;
+
+}
+.outer-div{
+    padding:50px;
+    background-color: #DCDCDC;
+    width:1500px;
+    height: 700px;
+
+
+}
+.inner-div{
+    width: 960px;
+    height:600px;
+    background-color: white;
+    margin:0 auto;
+}
+header li{
+    display:inline;
+    padding:0 20px 0 20px;
+    border-right: black solid;
+    
+}
+
+
+#heading{
+    float:left;
+    margin-bottom:100px 0 0 0 ;
+}

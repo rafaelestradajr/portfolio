@@ -1,0 +1,30 @@
+.footer{
+  
+    position: absolute;;bottom:0;
+    width:1500px;
+    display:block;
+    border:black solid 1px;
+    background-color:darkgray;
+    padding:25px;
+    text-align: center;
+    margin-left:25px;
+    margin-right: 25px;
+  
+  }
+  header li{
+    display:inline;
+    padding: 0 20px 0 20px;
+    border-right: black solid;
+    float:right;
+    text-decoration:none ;
+    
+}
+form{
+    margin-left: 25px;
+    padding:25px;
+    border: 1px solid red;
+
+}
+
+
+    
